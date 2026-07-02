@@ -3,7 +3,7 @@
 A data analysis project examining which positions offer the most reliable outcomes when selected with a lottery pick in the NBA
 draft, using an Omega-style analysis built from Box Plus-Minus (BPM) data.
 
-📊 **[View the full report](https://thegreenlaser.github.io/nba-draft-evaluation/report.html)**
+**[View the full report](https://thegreenlaser.github.io/nba-draft-evaluation/report.html)**
 
 ## Key Finding
 
@@ -13,7 +13,7 @@ SF/SG/PF positions show greater bust risk. This held true under both an
 initial Sortino-style formulation and the Omega-ratio approach that
 replaced it.
 
-## Methodology (short version)
+## Methodology
 
 - **Data source**: [Basketball Reference](https://www.basketball-reference.com)
   draft pages (2011–2021) and season-level advanced stats (2011–2026)
